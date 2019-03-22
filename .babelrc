@@ -1,0 +1,11 @@
+{
+	"presets": [
+		"react",
+		"env",
+		"react-app"
+	],
+	"plugins": [
+		"transform-object-rest-spread",
+		"transform-decorators-legacy"
+	]
+}

@@ -1,0 +1,14 @@
+# Files to ignore when running eslint
+
+.vs-code
+build
+config
+docs
+lang
+module_overrides
+node_modules
+public
+scripts
+vendors
+**/red5pro/**/*.js
+TEMP*.js

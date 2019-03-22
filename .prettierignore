@@ -1,0 +1,4 @@
+*.json
+*.lang.js
+TEMP*.js
+node_modules
